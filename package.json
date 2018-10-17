@@ -1,0 +1,24 @@
+{
+  "name": "see-counter-strike",
+  "version": "0.0.1",
+  "description": "Random Counter-Strike stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/see-counter-strike.git"
+  },
+  "keywords": [
+    "counter-strike",
+    "global offensive",
+    "cs:go"
+  ],
+  "author": "doobix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doobix/see-counter-strike/issues"
+  },
+  "homepage": "https://github.com/doobix/see-counter-strike#readme"
+}

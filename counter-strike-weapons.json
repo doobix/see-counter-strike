@@ -1,0 +1,140 @@
+{
+  "weapons": [
+    {
+      "name": "AK-47",
+      "category": "Rifles"
+    },
+    {
+      "name": "AUG",
+      "category": "Rifles"
+    },
+    {
+      "name": "AWP",
+      "category": "Rifles"
+    },
+    {
+      "name": "CZ75 Auto",
+      "category": "Pistols"
+    },
+    {
+      "name": "Desert Eagle",
+      "category": "Pistols"
+    },
+    {
+      "name": "Dual Berettas",
+      "category": "Pistols"
+    },
+    {
+      "name": "FAMAS",
+      "category": "Rifles"
+    },
+    {
+      "name": "Five-Seven",
+      "category": "Pistols"
+    },
+    {
+      "name": "G3SG1",
+      "category": "Rifles"
+    },
+    {
+      "name": "Galil AR",
+      "category": "Rifles"
+    },
+    {
+      "name": "Glock-18",
+      "category": "Pistols"
+    },
+    {
+      "name": "M249",
+      "category": "Machine Guns"
+    },
+    {
+      "name": "M4A1-S",
+      "category": "Rifles"
+    },
+    {
+      "name": "M4A4",
+      "category": "Rifles"
+    },
+    {
+      "name": "MAC-10",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "MP5-SD",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "MP7",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "MP9",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "Mag-7",
+      "category": "Shotguns"
+    },
+    {
+      "name": "Negev",
+      "category": "Machine Guns"
+    },
+    {
+      "name": "Nova",
+      "category": "Shotguns"
+    },
+    {
+      "name": "P2000",
+      "category": "Pistols"
+    },
+    {
+      "name": "P250",
+      "category": "Pistols"
+    },
+    {
+      "name": "P90",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "PP-Bizon",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "R8 Revolver",
+      "category": "Pistols"
+    },
+    {
+      "name": "SCAR-20",
+      "category": "Rifles"
+    },
+    {
+      "name": "SG 553",
+      "category": "Rifles"
+    },
+    {
+      "name": "SSG 08",
+      "category": "Rifles"
+    },
+    {
+      "name": "Sawed-Off",
+      "category": "Shotguns"
+    },
+    {
+      "name": "Tec-9",
+      "category": "Pistols"
+    },
+    {
+      "name": "UMP-45",
+      "category": "Submachine Guns"
+    },
+    {
+      "name": "USP-S",
+      "category": "Pistols"
+    },
+    {
+      "name": "XM1014",
+      "category": "Shotguns"
+    }
+  ]
+}
