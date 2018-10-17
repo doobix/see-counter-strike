@@ -1,6 +1,6 @@
 {
   "name": "see-counter-strike",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Random Counter-Strike stuff",
   "main": "index.js",
   "scripts": {
